@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WindowHop</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 28 Jun 2026 19:36:13 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Abjcodes/WindowBunny-releases/releases/download/prod/WindowBunny.dmg" length="3230163" type="application/octet-stream" sparkle:edSignature="O0Juk4vRdt2C+o3mgmBtHBcJRAzwD6FPX7Ebx0mlheb9nPVdeANi6weYXoO4yq1A0DXu9SP+dmz0qfiqBx+XBg=="/>
+        </item>
+    </channel>
+</rss>
